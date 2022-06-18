@@ -11,11 +11,15 @@
 #
 
 # Add a feed source
-# sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
-# sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
+# src-git helloworld https://github.com/fw876/helloworld
+# src-git kenzo https://github.com/kenzok8/openwrt-packages
+# src-git small https://github.com/kenzok8/small
+sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
+sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
+sed -i 'src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 # sed -i '$a src-git openclash https://github.com/vernesong/OpenClash' feeds.conf.default
 # sed -i '$a src-git cups https://github.com/TheMMcOfficial/lede-cups.git' feeds.conf.default
-sed -i '$a src-git cups https://github.com/Gr4ffy/lede-cups.git' feeds.conf.default
+# X sed -i '$a src-git cups https://github.com/Gr4ffy/lede-cups.git' feeds.conf.default
 
 # Add luci-theme-argon
 # rm -rf lede/package/lean/luci-theme-argon
@@ -26,7 +30,8 @@ git clone -b master https://github.com/jerrykuku/luci-app-argon-config package/l
 
 #添加额外软件包
 # git clone https://github.com/kongfl888/luci-app-adguardhome.git package/luci-app-adguardhome
-git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
+# X git clone -b master https://github.com/vernesong/OpenClash.git package/OpenClash
+
 
 # ssr plus
 # svn co https://github.com/fw876/helloworld/trunk/tcping package/tcping
