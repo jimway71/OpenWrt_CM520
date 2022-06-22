@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt for Newifi3 D2
+name: Build OpenWrt for Device Newifi3 D2
 
 on:
   repository_dispatch:
@@ -27,9 +27,9 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: newifi3.config
-  DIY_P1_SH: diy-newifi3-part1.sh
-  DIY_P2_SH: diy-newifi3-part2.sh
+  CONFIG_FILE: Dev-Newifi3-D2.conf
+  DIY_P1_SH: Dev-Newifi3-D2-diy-part1.sh
+  DIY_P2_SH: Dev-Newifi3-D2-diy-part2.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
