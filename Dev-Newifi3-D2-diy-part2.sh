@@ -6,7 +6,7 @@
 # See /LICENSE for more information.
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# File name: diy-newifi3-part2.sh
+# File name: Dev-Newifi3-D2-diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
 
