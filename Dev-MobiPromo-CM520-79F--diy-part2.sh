@@ -6,7 +6,7 @@
 # See /LICENSE for more information.
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# File name: diy-part2.sh
+# File name: Dev-MobiPromo-CM520-79F--diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
 
@@ -31,6 +31,6 @@
 # Modify hostname
 sed -i 's/OpenWrt/CM520OP/g' package/base-files/files/bin/config_generate
 # Modify the version number
-sed -i "s/OpenWrt /Jimway build $(TZ=UTC-8 date "+%Y.%m.%d") 4 CM520 @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
+sed -i "s/OpenWrt /Jimway build $(TZ=UTC-8 date "+%Y.%m.%d") 4 MobiPromo CM520-79F @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
 # Modify default theme
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
