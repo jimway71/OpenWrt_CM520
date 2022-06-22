@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt for MobiPromo CM520-79F
+name: Build OpenWrt for Device MobiPromo CM520-79F
 
 on:
   repository_dispatch:
