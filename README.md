@@ -17,7 +17,7 @@
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
    VLAN support: Yes  
-###External links:  
+<p>External links:  
    https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
 
 ##2. Lenovo Newifi3 D2  
@@ -36,7 +36,7 @@
    Ethernet Gbit ports: 5  
    Switch: MediaTek MT7621AT  
    VLAN: Yes  
-###External links:  
+External links:  
    https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
    https://openwrt.org/toh/lenovo/newifi_d2?s[]=newifi&s[]=d2  
 
