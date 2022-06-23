@@ -20,6 +20,7 @@ Actions Compile OpenWrt For:
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
    VLAN support: Yes  
+   OpenWrt CpuMark : About 8,000 Scores  
    
 &emsp;External links:  
 &emsp;&emsp;https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
@@ -40,6 +41,7 @@ Actions Compile OpenWrt For:
    Ethernet Gbit ports: 5  
    Switch: MediaTek MT7621AT  
    VLAN: Yes
+   OpenWrt CpuMark : About 5,300 Scores  
    
 &emsp;External links:  
 &emsp;&emsp;https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
