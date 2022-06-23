@@ -1,9 +1,9 @@
-[Markdown 换行语法: 在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行]  
+[Markdown换行语法: 在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行]  
+[Markdown的空格是: '&emsp;']
 
+Actions Compile OpenWrt For:  
 
-#Actions Compile OpenWrt For:  
-
-##1. MobiPromo(星际宝盒) CM520-79F  
+1. MobiPromo(星际宝盒) CM520-79F  
    Device Type: WiFi Router  
    Brand: MobiPromo  
    Model: CM520-79F  
@@ -17,10 +17,10 @@
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
    VLAN support: Yes  
-<p>External links:  
+External links:  
    https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
 
-##2. Lenovo Newifi3 D2  
+2. Lenovo Newifi3 D2  
    Device Type: Router  
    Brand: D-Team  
    Model: Newifi D2 (Newifi3)  
