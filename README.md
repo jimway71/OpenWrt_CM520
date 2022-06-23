@@ -16,7 +16,7 @@ Actions Compile OpenWrt For:
    RAM: 512 MB  
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
-   VLAN support: Yes  
+   VLAN support: Yes  <br>
 External links:  
    https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
 
