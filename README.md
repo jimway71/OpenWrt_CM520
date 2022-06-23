@@ -17,8 +17,9 @@ Actions Compile OpenWrt For:
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
    VLAN support: Yes  
-External links:  
-   https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
+   
+&emsp;External links:  
+&emsp;&emsp;https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
 
 2. Lenovo Newifi3 D2  
    Device Type: Router  
@@ -35,8 +36,9 @@ External links:
    RAM: 512 MB  
    Ethernet Gbit ports: 5  
    Switch: MediaTek MT7621AT  
-   VLAN: Yes  
-External links:  
-   https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
-   https://openwrt.org/toh/lenovo/newifi_d2?s[]=newifi&s[]=d2  
+   VLAN: Yes
+   
+&emsp;External links:  
+&emsp;&emsp;https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
+&emsp;&emsp;https://openwrt.org/toh/lenovo/newifi_d2?s[]=newifi&s[]=d2  
 
