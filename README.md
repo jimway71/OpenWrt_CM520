@@ -15,12 +15,12 @@ Actions Compile OpenWrt For:
    Bootloader: U-Boot  
    CPU: Qualcomm Atheros IPQ4019  
    CPU Cores: 4  
+   OpenWrt CpuMark : About 8,000 Scores  
    Flash: 128 MBNAND  
    RAM: 512 MB  
    Ethernet Gbit ports: 3  
    Switch: Qualcomm Atheros QCA8075  
    VLAN support: Yes  
-   OpenWrt CpuMark : About 8,000 Scores  
    
 &emsp;External links:  
 &emsp;&emsp;https://openwrt.org/toh/hwdata/mobipromo/mobipromo_cm520-79f  
@@ -36,12 +36,12 @@ Actions Compile OpenWrt For:
    CPU: MediaTek MT7621AT  
    CPU Cores: 2  
    CPU MHz: 880  
+   OpenWrt CpuMark : About 5,300 Scores  
    Flash: 32 MB  
    RAM: 512 MB  
    Ethernet Gbit ports: 5  
    Switch: MediaTek MT7621AT  
    VLAN: Yes  
-   OpenWrt CpuMark : About 5,300 Scores  
    
 &emsp;External links:  
 &emsp;&emsp;https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
