@@ -40,7 +40,7 @@ Actions Compile OpenWrt For:
    RAM: 512 MB  
    Ethernet Gbit ports: 5  
    Switch: MediaTek MT7621AT  
-   VLAN: Yes
+   VLAN: Yes  
    OpenWrt CpuMark : About 5,300 Scores  
    
 &emsp;External links:  
