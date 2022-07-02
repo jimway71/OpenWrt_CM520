@@ -55,7 +55,7 @@ Actions Compile OpenWrt For:
    Subtarget: rt3883  
    Package architecture: mipsel_74kc  
    Bootloader: U-Boot  
-   CPU: Ralink RT3662  
+   CPU: MediaTek Ralink RT3662  
    CPU Cores: 1  
    CPU MHz: 500  
    OpenWrt CpuMark :   
