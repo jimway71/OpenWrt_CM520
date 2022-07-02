@@ -47,3 +47,23 @@ Actions Compile OpenWrt For:
 &emsp;&emsp;https://openwrt.org/toh/hwdata/d-team/d-team_newifi_d2  
 &emsp;&emsp;https://openwrt.org/toh/lenovo/newifi_d2?s[]=newifi&s[]=d2  
 
+3. ASUS RT-N56U A1  
+   Device Type: WiFi Router  
+   Brand: ASUS  
+   Model: RT-N56U  
+   Target: ramips  
+   Subtarget: rt3883  
+   Package architecture: mipsel_74kc  
+   Bootloader: U-Boot  
+   CPU: Ralink RT3662  
+   CPU Cores: 1  
+   CPU MHz: 500  
+   OpenWrt CpuMark :   
+   Flash: 8 MB  
+   RAM: 128 MB  
+   Ethernet Gbit ports: 5  
+   Switch: Realtek RTL8367M  
+   VLAN: Yes  
+      
+&emsp;External links:  
+&emsp;&emsp;https://openwrt.org/toh/hwdata/asus/asus_rt-n56u_a1  
