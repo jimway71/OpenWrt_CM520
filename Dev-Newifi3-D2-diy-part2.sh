@@ -31,6 +31,6 @@
 # Modify hostname
 sed -i 's/OpenWrt/Newifi3OP/g' package/base-files/files/bin/config_generate
 # Modify the version number
-sed -i "s/OpenWrt /Jimway build $(TZ=UTC-8 date "+%Y.%m.%d") 4 Newifi3 D2 @ OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
+sed -i "s/OpenWrt /Newifi3-D2®OpenWrt© $(TZ=UTC-8 date "+%Y.%m.%d")℠ by Jimway™ /g" package/lean/default-settings/files/zzz-default-settings
 # Modify default theme
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
