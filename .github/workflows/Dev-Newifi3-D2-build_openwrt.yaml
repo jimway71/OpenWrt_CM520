@@ -18,8 +18,18 @@ on:
         description: 'SSH connection to Actions'
         required: false
         default: 'false'
-#  schedule:
-#    - cron: 0 8 * * 6,7
+# ┌────────── minute (0 - 59)
+# │ ┌────────── hour (0 - 23)
+# │ │ ┌────────── day of the month (1 - 31)
+# │ │ │ ┌────────── month (1 - 12)
+# │ │ │ │ ┌────────── day of the week (0 - 6)
+# │ │ │ │ │                                  
+# │ │ │ │ │
+# │ │ │ │ │
+# * * * * *        
+  schedule:
+# work on: Day 28 on each month, 4:00am 
+    - cron: 0 4 28 * *
   watch:
     types: started
     
